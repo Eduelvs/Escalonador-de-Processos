@@ -1,2 +1,2 @@
 # Escalonador-de-Processos
-Escalonador de Processos em python
+Escalonador de Processos em c
